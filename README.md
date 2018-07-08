@@ -1,0 +1,1 @@
+# simple-named-modules-plugin-webpack
